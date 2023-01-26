@@ -1,0 +1,8 @@
+C:\Users\herhe\source\repos\SortSpeedTest\bin\Debug\SortSpeedTest.exe.config
+C:\Users\herhe\source\repos\SortSpeedTest\bin\Debug\SortSpeedTest.exe
+C:\Users\herhe\source\repos\SortSpeedTest\bin\Debug\SortSpeedTest.pdb
+C:\Users\herhe\source\repos\SortSpeedTest\obj\Debug\SortSpeedTest.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\SortSpeedTest\obj\Debug\SortSpeedTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\SortSpeedTest\obj\Debug\SortSpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\SortSpeedTest\obj\Debug\SortSpeedTest.exe
+C:\Users\herhe\source\repos\SortSpeedTest\obj\Debug\SortSpeedTest.pdb
